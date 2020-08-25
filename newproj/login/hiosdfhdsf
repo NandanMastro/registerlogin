@@ -1,0 +1,19 @@
+{
+    "email": "nandan@yopmail.com"
+}
+
+{
+'token' :  'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2MywidXNlcm5hbWUiOiJuYW5kYW5AeW9wbWFpbC5jb20iLCJleHAiOjE1OTgyNTE3ODgsImVtYWlsIjoibmFuZGFuQHlvcG1haWwuY29tIn0.LWPg14kNKf74qUxZJYZ-60MrGdPV_N7_NNFSRs04lPQ',
+
+'new_pwd' : '1234'
+}
+{
+"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2NCwidXNlcm5hbWUiOiJuYW5kYW5AeW9wbWFpbC5jb20iLCJleHAiOjE1OTgyNTcyOTksImVtYWlsIjoibmFuZGFuQHlvcG1haWwuY29tIn0.t318JVwmUmQs5c3WZIhsj5G6rsrTLoWR5wvzTTiiLN4",
+"new_pwd":"qwerty"
+}
+pbkdf2_sha256$216000$KdrK9m24ZAwH$253Z77CQrPWg0wuZraoJb2g9oAYojhbADtmgeYsiW9M=
+pbkdf2_sha256$216000$KdrK9m24ZAwH$253Z77CQrPWg0wuZraoJb2g9oAYojhbADtmgeYsiW9M=
+{
+    "email": "nandan@yopmail.com",
+"password":"adfsaffdf"
+}
